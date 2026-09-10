@@ -1,0 +1,32 @@
+{
+  "items": [
+    {
+      "upload_number": 1204,
+      "title": "The Cosmic Wanderer",
+      "artist": "Jane Doe",
+      "categories": [
+        "Manga",
+        "Sci-Fi",
+        "Action"
+      ],
+      "language": "en",
+      "tags": [
+        "space-opera",
+        "aliens",
+        "hero's journey",
+        "full-color"
+      ],
+      "description": "fuhhhhhhhh",
+      "upload_date": 1718042400,
+      "number_of_pages": 5,
+      "title_cover": "https://etc.usf.edu/clipart/37100/37135/frac_01-02_37135_lg.gif",
+      "pages": [
+        "https://i0.wp.com/picjumbo.com/wp-content/uploads/silhouettes-of-hawaiian-palms-at-a-gorgeous-sunset-free-image.jpeg",
+        "https://media.springernature.com/lw703/springer-static/image/art%3A10.1038%2F528452a/MediaObjects/41586_2015_Article_BF528452a_Figg_HTML.jpg",
+        "https://static.vecteezy.com/system/resources/thumbnails/057/068/323/small/single-fresh-red-strawberry-on-table-green-background-food-fruit-sweet-macro-juicy-plant-image-photo.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png",
+        "https://static.vecteezy.com/vite/assets/photo-masthead-375-BoK_p8LG.webp"
+      ]
+    }
+  ]
+}
