@@ -1,8 +1,15 @@
 {
   "manifest_urls": [
-    "https://example.com/api/manifests/1204.json",
-    "https://example.com/api/manifests/89332.json",
-    "https://example.com/api/manifests/90551.json",
-    "https://example.com/api/manifests/102944.json"
+    "https://raw.githubusercontent.com/LillyPK/comic-site-test/refs/heads/main/book1.json",
+    "https://raw.githubusercontent.com/LillyPK/comic-site-test/refs/heads/main/book2.json",
+    "https://raw.githubusercontent.com/LillyPK/comic-site-test/refs/heads/main/book3.json",
+    "https://raw.githubusercontent.com/LillyPK/comic-site-test/refs/heads/main/book4.json",
+    "https://raw.githubusercontent.com/LillyPK/comic-site-test/refs/heads/main/book5.json",
+    "https://raw.githubusercontent.com/LillyPK/comic-site-test/refs/heads/main/book6.json",
+    "https://raw.githubusercontent.com/LillyPK/comic-site-test/refs/heads/main/book7.json",
+    "https://raw.githubusercontent.com/LillyPK/comic-site-test/refs/heads/main/book8.json",
+    "https://raw.githubusercontent.com/LillyPK/comic-site-test/refs/heads/main/book9.json",
+    "https://raw.githubusercontent.com/LillyPK/comic-site-test/refs/heads/main/book10.json",
+    "https://raw.githubusercontent.com/LillyPK/comic-site-test/refs/heads/main/book11.json"
   ]
 }
