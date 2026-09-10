@@ -1,0 +1,33 @@
+{
+  "items": [
+    {
+      "upload_number": 3204,
+      "title": "IDFK",
+      "artist": "anon",
+      "categories": [
+        "Manga",
+        "Motion",
+        "Seinen"
+      ],
+      "language": "en",
+      "tags": [
+        "dark",
+        "villan",
+        "animated",
+        "gif",
+        "story"
+      ],
+      "description": "i like trains",
+      "upload_date": 1718042402,
+      "number_of_pages": 5,
+      "title_cover": "https://i.pinimg.com/736x/2d/95/e5/2d95e5886fc4c65a6778b5fee94a7d59.jpg",
+      "pages": [
+        "https://i0.wp.com/picjumbo.com/wp-content/uploads/silhouettes-of-hawaiian-palms-at-a-gorgeous-sunset-free-image.jpeg",
+        "https://media.springernature.com/lw703/springer-static/image/art%3A10.1038%2F528452a/MediaObjects/41586_2015_Article_BF528452a_Figg_HTML.jpg",
+        "https://static.vecteezy.com/system/resources/thumbnails/057/068/323/small/single-fresh-red-strawberry-on-table-green-background-food-fruit-sweet-macro-juicy-plant-image-photo.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/b6/Image_created_with_a_mobile_phone.png",
+        "https://static.vecteezy.com/vite/assets/photo-masthead-375-BoK_p8LG.webp"
+      ]
+    }
+  ]
+}
