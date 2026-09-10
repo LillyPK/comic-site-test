@@ -1,0 +1,8 @@
+{
+  "manifest_urls": [
+    "https://example.com/api/manifests/1204.json",
+    "https://example.com/api/manifests/89332.json",
+    "https://example.com/api/manifests/90551.json",
+    "https://example.com/api/manifests/102944.json"
+  ]
+}
